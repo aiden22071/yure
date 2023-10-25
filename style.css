@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    color: rgb(218, 1, 1);
+    font-family: 'Montserrat', sans-serif;
+}
+
+#footer{
+    position: fixed;
+    color: rgb(88, 36, 177);
+    bottom: 0;
+    width: 100%;
+    font-size: 27px;
+    background-color: rgb(42, 203, 56);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 10px 5px 5px darkgrey;
+}
+
+#bt{
+    background-color: rgb(5, 45, 45);
+    color: rgb(249, 249, 249);
+    size: 50px;
+    border-radius: 2px;
+    border: dotted;
+    border-color: rgb(211, 39, 197);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 130px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.header_div p{
+    color: rgb(53, 160, 124);
+    font-size: xx-large;
+    background-color: rgb(219, 135, 135);
+}
+
+.header_div{
+    font-size: 90px;
+    font-weight: 500;
+    text-shadow: 10px 5px 5px rgb(26, 22, 226);
+}
